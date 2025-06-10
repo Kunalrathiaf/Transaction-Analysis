@@ -1,0 +1,32 @@
+Insight from Transaction Analysis: -
+
+. Between the 25-10-2021 to 25-05-2024 highest withdrwal is 7000rs on 04-09-2022.
+
+
+. Between the 25-10-2021 to 25-05-2024 highest deposit is 7000rs on 03-09-2022.
+
+  And 2nd is 5000rs on 28-11-2021.
+
+
+. we observed that from TRANSACTION PARTICULARS 'AYUSH-KHEM-KKBK- ayushrramtek2@' we got more deposit rupees.
+
+
+. And 2nd highest deposit rupees is from ANKUSH P L which 5000rs.
+
+
+. The year 2023 has highest transaction. but count of withdrwal is more in 2021.
+
+
+. maximum range of balance in our account is between 0 to 4000rs.
+
+
+
+
+
+
+
+
+
+
+
+
